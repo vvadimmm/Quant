@@ -1,3 +1,5 @@
+# code based on previous notebook, used Claude for building the app
+
 import numpy as np
 from scipy.stats import norm
 import tkinter as tk
